@@ -6,7 +6,7 @@ A very basic Finite State Machine with infinite potential, Mobius is a header-on
 You can either clone the repo and pop the include folder into your project, or use git submodules. For example:
 
 ```shell
-git submodule add git@github.com:jaxwrightiscool/mobius.git
+git submodule add git@github.com:rufus-stone/mobius.git
 
 git submodule update --init --recursive
 ```
